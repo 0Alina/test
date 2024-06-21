@@ -7,4 +7,4 @@ public class Specialitate extends Facultate {
         super(nume);
         this.titlu = titlu;
     }
-}bv
+}
