@@ -7,4 +7,7 @@ public class Student extends Specialitate {
         super(nume, titlu);
         this.NP = NP;
     }
+    public void afisareStudent () {
+        System.out.println("Informația despre student: ");
+    }
 }
