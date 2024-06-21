@@ -1,2 +1,7 @@
-package polymorph;public class Main {
+package polymorph;
+
+public class Main {
+    public static void main(String[] args) {
+
+    }
 }

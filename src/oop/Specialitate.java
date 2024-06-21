@@ -1,3 +1,5 @@
+package oop;
+
 public class Specialitate extends Facultate {
     private String titlu;
 

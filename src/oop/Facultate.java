@@ -1,7 +1,9 @@
+package oop;
+
 public class Facultate {
     private String nume;
 
-    private Facultate (String nume) {
+    public Facultate (String nume) {
         this.nume = nume;
     }
     private void afisareFacultate() {
