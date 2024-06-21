@@ -1,4 +1,9 @@
 package oop;
 
-public class Student {
+public class Student extends Specialitate {
+    private String NP;
+
+    public Student(String nume, String titlu, String NP) {
+
+    }
 }
