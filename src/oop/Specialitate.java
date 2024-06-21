@@ -7,4 +7,8 @@ public class Specialitate extends Facultate {
         super(nume);
         this.titlu = titlu;
     }
+    public void afisareSpecialitate() {
+        System.out.println("Specialitatea: " + titlu);
+    }
+
 }

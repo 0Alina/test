@@ -1,6 +1,6 @@
 package oop;
 
-public class Student extends Specialitate {
+public class Student extends Specialitate{
     private String NP;
 
     public Student(String nume, String titlu, String NP) {
@@ -8,6 +8,6 @@ public class Student extends Specialitate {
         this.NP = NP;
     }
     public void afisareStudent () {
-        System.out.println("Informația despre student: ");
+        System.out.println("Informația despre student: " + NP);
     }
 }
